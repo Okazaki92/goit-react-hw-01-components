@@ -1,0 +1,15 @@
+.friends {
+  width: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(169, 169, 169, 0.353);
+  border-radius: 10px;
+  padding: 25px 0;
+  margin: 50px 0;
+}
+.friend_list {
+  width: 300px;
+  padding: 0;
+  text-align: center;
+}
